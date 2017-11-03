@@ -1,2 +1,3 @@
 # hello_world
-trial
+
+Hopefully I'll stick with this project and finish it. 
